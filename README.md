@@ -50,9 +50,25 @@ If you're a recruiter, hiring manager, or fellow analyst browsing GitHub for **P
 ---
 
 ## 📁 Repository Contents
-├── E-Commerce_Sales_Analytics.pbix # Full Power BI dashboard file
-├── visuals.pdf # Exported dashboard visuals (quick preview)
-└── README.md # You are here
+├── dashboard/
+│ └── E-Commerce_Sales_Analytics.pbix # Full Power BI dashboard file
+├── visuals/
+│ └── visuals.pdf # Exported dashboard visuals (quick preview)
+├── screenshots/ # Individual dashboard page previews
+└── README.md
+## 🖼️ Dashboard Preview
+
+**Executive Overview**
+![Executive Overview](screenshots/executive-overview.png)
+
+**Discount Strategy Analysis**
+![Discount Strategy](screenshots/discount-strategy-analysis.png)
+
+**Delivery Performance**
+![Delivery Performance](screenshots/delivery-performance.png)
+
+**Executive Recommendations**
+![Executive Recommendations](screenshots/executive-recommendations.png)
 ---
 
 ## 🚀 How to Explore It
